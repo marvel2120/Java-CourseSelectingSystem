@@ -1,1 +1,2 @@
 # Java-CourseSelectingSystem
+This system is designed to record the information of the students. And it provides the operations like insert student information into system, modify students' information, delete student from the system, enquire the specific student in the system and show all the information of the students in this system. Additionally, I added a authentication function. when the student wants to login to the system, a verified code is required.
